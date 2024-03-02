@@ -6,3 +6,6 @@ def subtrair (a, b):
 
 def multiplicar(a, b):
     git add calculadora.pyreturn a * b
+
+def dividir (a, b):
+    return a / b
